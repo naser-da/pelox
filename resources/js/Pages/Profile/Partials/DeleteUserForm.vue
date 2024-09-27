@@ -66,7 +66,7 @@ const closeModal = () => {
 
                     <TextInput
                         id="password"
-                        ref="passwordInput"
+                        ref="RoomNameInput"
                         v-model="form.password"
                         type="password"
                         class="mt-1 block w-3/4"
